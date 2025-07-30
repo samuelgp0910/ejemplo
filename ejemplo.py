@@ -1,0 +1,6 @@
+nombre = input("¿Cómo te llamas? ")
+print(f"¡Hola, {nombre}! Bienvenido a tu primer proyecto en Python.")
+apellido = input("¿Cuál es tu apellido? ")
+print(f"tu apellido es  {apellido}! jasaja que apellido tan maluco.")
+edad = input("¿Cuántos años tienes? ")
+print(f"¡ushh tienes {edad} años, no pues ya esta muy viejo.")
